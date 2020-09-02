@@ -1,46 +1,40 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Justin Russell",
+    "description":"I am a Software Engineer, and I play golf",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am currently a Web Development student attending Lambda School. When I am away from my computer you can find me watching sports or out playing golf. I love anything that has to do with the Lakers and Yankees, and will watch any form of football regardless of who is playing. At night, I like to go out to the movies, watch a comedy show, or enjoy some of the great food that Portland has to offer.",
+    "contactmessage":"Contact me for any and all web development and golf inquiries!",
+    "email": "justinruss24@gmail.com",
+    "phone": "818-312-4938",
+    "github":"https://github.com/justinruss24",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.justinruss.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/justinruss_",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/justinrussell-web/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/justinruss24",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/justinruss24",
         "className":"fa fa-github"
       }
     ]
@@ -109,34 +103,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Covid-19 Tracker",
+        "category":"Tracks global COVID-19 statistics as well as by individual countries.",
+        "image":"covid.png",
+        "url":"https://covid-tracker-one.vercel.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"RBC Color Game",
+        "category":"A random RBC color guessing game.",
+        "image":"colorgame.png",
+        "url":"https://color-game-inky.now.sh/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Virtual Bar",
+        "category":"Random drink made for you that's the Bartender's choice.",
+        "image":"virtualbar.jpg.png",
+        "url":"https://virtual-bar.justinruss24.now.sh/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Conway's Game of Life",
+        "category":"A cellular automaton where each grid state relies on the previous grid state.",
+        "image":"conway.jpg",
+        "url":"https://conways-game-of-life-beige.vercel.app/"
       }
     ]
   }

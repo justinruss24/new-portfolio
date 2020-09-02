@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+                <form action="https://formspree.io/mrgkqgqv" method="POST" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -76,7 +76,7 @@ class Contact extends Component {
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
+               {/* <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
@@ -107,7 +107,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
+		         </div> */}
             </aside>
       </div>
    </section>
