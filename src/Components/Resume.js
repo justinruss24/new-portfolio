@@ -28,7 +28,7 @@ class Resume extends Component {
       // })
 
       var skills = this.props.data.skills.map((skills)=>{
-        var className = 'bar-expand '+skills.name.toLowerCase();
+      var className = 'bar-expand '+skills.name.toLowerCase();
         return (
           <li key={skills.name}>
             {/* <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span> */}
