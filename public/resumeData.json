@@ -9,13 +9,13 @@
     "phone": "818-312-4938",
     "github":"https://github.com/justinruss24",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"1650 NE 32nd Ave. #222",
+      "city":"Portland",
+      "state":"OR",
+      "zip": "97232"
     },
     "website": "http://www.justinruss.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"public/images/resume.png",
     "social":[
       {
         "name":"twitter",
@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are just some of my skills I can bring to your team.",
     "education":[
       {
         "school":"University?",
@@ -75,11 +75,7 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
+        "name":"ReactJs/Redux",
         "level":"50%"
       },
       {
@@ -87,15 +83,15 @@
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"Javascript",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"Node.js",
         "level":"50%"
       },
       {
-        "name":"JAVA",
+        "name":"Git",
         "level":"80%"
       }
     ]
