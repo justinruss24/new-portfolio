@@ -3,7 +3,7 @@
     "name":"Justin Russell",
     "description":"I am a Software Engineer, and I play golf",
     "image":"profilepic.jpg",
-    "bio":"I am currently a Web Development student attending Lambda School. When I am away from my computer you can find me watching sports or out playing golf. I love anything that has to do with the Lakers and Yankees, and will watch any form of football regardless of who is playing. At night, I like to go out to the movies, watch a comedy show, or enjoy some of the great food that Portland has to offer.",
+    "bio":"I am a Lambda School Full Stack Web Development graduate and Freelance Software Engineer. When I am away from my computer you can find me watching sports or out playing golf. I love anything that has to do with the Lakers and Yankees, and will watch any form of football regardless of who is playing. At night, I like to go out to the movies, watch a comedy show, or enjoy some of the great food that Portland has to offer.",
     "contactmessage":"Contact me for any and all web development and golf inquiries!",
     "email": "justinruss24@gmail.com",
     "phone": "818-312-4938",
@@ -15,7 +15,7 @@
       "zip": "97232"
     },
     "website": "http://www.justinruss.com",
-    "resumedownload":"public/images/resume.png",
+    "resumedownload":"images/resume.png",
     "social":[
       {
         "name":"twitter",
@@ -79,11 +79,11 @@
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"HTML/CSS/Javascript",
         "level":"90%"
       },
       {
-        "name":"Javascript",
+        "name":"Golang",
         "level":"80%"
       },
       {
@@ -91,7 +91,7 @@
         "level":"50%"
       },
       {
-        "name":"Git",
+        "name":"Ruby",
         "level":"80%"
       }
     ]
@@ -105,8 +105,8 @@
         "url":"https://covid-tracker-one.vercel.app/"
       },
       {
-        "title":"RBC Color Game",
-        "category":"A random RBC color guessing game.",
+        "title":"RGB Color Game",
+        "category":"A random RGB color guessing game.",
         "image":"colorgame.png",
         "url":"https://color-game-inky.now.sh/"
       },
