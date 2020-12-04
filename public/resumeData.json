@@ -93,6 +93,14 @@
       {
         "name":"Ruby",
         "level":"80%"
+      },
+      {
+        "name": "Postgresql/SQL",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "80%"
       }
     ]
   },
